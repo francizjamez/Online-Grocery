@@ -12,5 +12,14 @@
     background-color: black;
 }
 .bgcolor{
-    background-color: white;
+    background-color:#D0B49F;
+}
+.buttoncolor{
+    color:#39918C;
+}
+.txtcolor{
+    background-color:#2F435A;
+}
+.btn-primary{
+    background-color:#39918C !important
 }
