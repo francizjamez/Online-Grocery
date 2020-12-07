@@ -1,0 +1,16 @@
+.effect {
+    text-align:center;
+    color:red;
+}
+.paraeffect {
+    text-align:left;
+    color:black;
+}
+.headcolor{
+    margin-bottom: 50px;
+    padding: 26px 0px 26px 0px;
+    background-color: black;
+}
+.bgcolor{
+    background-color: white;
+}
